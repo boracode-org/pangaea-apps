@@ -1,0 +1,34 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add @types/react-native @types/react --dev
+
+PATH: 
+  /usr/local/opt/php71/bin:/Users/raz0r/.composer/vendor/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/opt/php71/bin:/Users/raz0r/.composer/vendor/bin:/Users/raz0r/Library/Android/sdk/tools:/Users/raz0r/Library/Android/sdk/platform-tools:/Users/raz0r/go/bin:/Users/raz0r/Go/bin:/usr/local/opt/go/libexec/bin:/Users/raz0r/Library/Android/sdk/tools:/Users/raz0r/Library/Android/sdk/platform-tools:/Users/raz0r/go/bin:/Users/raz0r/Go/bin:/usr/local/opt/go/libexec/bin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  9.1.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "main": "node_modules/expo/AppEntry.js",
+    "private": true,
+    "dependencies": {
+      "expo": "^23.0.0",
+      "react": "16.0.0",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.17.1.tgz: ENOENT: no such file or directory, utime '/Users/raz0r/Library/Caches/Yarn/v1/npm-react-native-maps-0.17.1-ab2236341fd984dac8864202ae55331bc262f60c/README.md'

@@ -1,0 +1,39 @@
+import * as React from "react";
+import { getStyles } from "typestyle";
+
+interface IHtmlProps {
+  description: string;
+  appString: string;
+  bodyElements: JSX.Element[];
+  bundle?: string;
+  vendor?: string;
+}
+
+export class Html extends React.Component<IHtmlProps, undefined> {
+  public render() {
+    const { appString, bodyElements, bundle, vendor } = this.props;
+
+    // Pass generated styles to client
+    const styles = <style id="styles-target">{getStyles()}</style>;
+
+    return (
+      <html>
+        <head>
+          <meta charSet="utf-8" />
+          <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <meta name="msapplication-TileColor" content="#4a9dd7" />
+          <meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png" />
+          <meta name="theme-color" content="#4a9dd7" />
+          {styles}
+        </head>
+        <body>
+          <main id="app" dangerouslySetInnerHTML={{ __html: appString }} />
+          {vendor ? <script src={vendor} /> : null}
+          {bodyElements}
+          {bundle ? <script src={bundle} /> : null}
+        </body>
+      </html>
+    );
+  }
+}

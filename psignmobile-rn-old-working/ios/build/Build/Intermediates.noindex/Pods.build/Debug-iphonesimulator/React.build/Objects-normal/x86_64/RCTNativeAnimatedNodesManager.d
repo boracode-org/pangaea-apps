@@ -1,0 +1,44 @@
+dependencies: \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Private/React/RCTAnimation/RCTValueAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Private/React/RCTAnimation/RCTAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTDefines.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridge.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTRootView.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTConvert.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTLog.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTAssert.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTUtils.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Views/UIView+React.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Views/RCTComponent.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h

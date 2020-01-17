@@ -1,0 +1,42 @@
+dependencies: \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Standalone/Branch/RNBranch.m \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridge.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTDefines.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTLog.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTAssert.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTUtils.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Standalone/Branch/RNBranch.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Standalone/Branch/BranchLinkProperties+RNBranch.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/Branch.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCConfig.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BranchView.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCCallbacks.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCLinkCache.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCLinkData.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BranchViewHandler.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCServerInterface.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCServerResponse.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCPreferenceHelper.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BranchLinkProperties.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BranchUniversalObject.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCServerRequestQueue.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/Requests/BNCServerRequest.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BranchActivityItemProvider.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BranchDeepLinkingController.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCCommerceEvent.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BranchShareLink.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Branch/Branch-SDK/Branch-SDK/BNCXcode7Support.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Standalone/Branch/BranchUniversalObject+RNBranch.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Standalone/Branch/RNBranchAgingDictionary.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Standalone/Branch/RNBranchEventEmitter.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Modules/RCTEventEmitter.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXConstants.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/ScopedModule/EXScopedBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXScopedModuleRegistry.h

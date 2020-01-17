@@ -1,0 +1,42 @@
+dependencies: \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Errors/EXExceptionHandler.m \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Errors/EXExceptionHandler.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Modules/RCTExceptionsManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTDefines.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernel.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelBridgeRegistry.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelBridgeRecord.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelServiceRegistry.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelUtil.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDLog.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDLogMacros.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDAssertMacros.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDASLLogger.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDTTYLogger.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDFileLogger.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/CocoaLumberjack/Classes/DDOSLogger.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/ExpoKit/EXViewController.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Errors/EXErrorView.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/ReactAppManager/EXKernelReactAppManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/ReactAppManager/EXReactAppManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridge.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Api/EXCachedResource.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Crashlytics.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSAttributes.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSLogging.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSReport.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSStackFrame.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Answers.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Public/Crashlytics/Crashlytics/ANSCompatibility.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTAssert.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTErrorCustomizer.h

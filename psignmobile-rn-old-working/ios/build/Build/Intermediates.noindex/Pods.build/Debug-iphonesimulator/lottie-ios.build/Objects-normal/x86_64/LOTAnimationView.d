@@ -1,0 +1,32 @@
+dependencies: \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView.m \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Target\ Support\ Files/lottie-ios/lottie-ios-prefix.pch \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView_Compat.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/MacCompatability/LOTPlatformCompat.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTModels.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTKeyframe.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTBezierData.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayer.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTMask.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeCircle.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeFill.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGroup.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapePath.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeRectangle.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayerGroup.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTAsset.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGradientFill.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/LOTHelpers.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/UIColor+Expanded.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/CGGeometry+LOTAdditions.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/LOTBezierPath.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView_Internal.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationCache.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTAssetGroup.h

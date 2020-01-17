@@ -1,0 +1,1 @@
+tsc --lib 'es2017' --lib 'dom' --lib 'es2015' ./main.ts

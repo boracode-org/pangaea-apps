@@ -1,0 +1,45 @@
+dependencies: \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXFacebook.m \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXFacebook.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTDefines.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTUtils.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTAssert.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXConstants.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/ScopedModule/EXScopedBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridge.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXScopedModuleRegistry.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Headers/Private/../Private/FBSDKCoreKit/FBSDKInternalUtility.h

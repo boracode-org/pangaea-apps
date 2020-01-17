@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "outDir": "build",
+        "pretty": true,
+        "removeComments": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "experimentalDecorators": true,
+        "baseUrl": "./src",
+        "moduleResolution": "node",
+        "jsx": "react",
+        "noEmitHelpers": true,
+        "importHelpers": true,
+        "lib": [
+            "dom",
+            "es6",
+            "es2017"
+        ],
+        "sourceRoot": "./src",
+        "inlineSourceMap": true,
+        "inlineSources": true
+    },
+    "exclude": [
+        "node_modules",
+        "fuse.ts"
+    ]
+}

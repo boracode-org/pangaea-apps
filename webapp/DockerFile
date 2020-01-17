@@ -1,0 +1,35 @@
+FROM node:alpine
+MAINTAINER Ronald Adonyo <ronald.adonyo@gmail.com>
+
+RUN curl -sL https://deb.nodesource.com/setup | sudo bash -
+RUN apt-get update -y
+RUN apt-get -qq update -y
+RUN apt-get install nodejs-legacy
+RUN apt-get install -y nodejs npm -y libav-tools -y ffmpeg -y ffprobe -y 
+
+#link nodejs binaries
+ln -s /usr/bin/nodejs /usr/bin/node
+
+#install any specific things you need on this ubuntu box
+
+VOLUME ["/data"]
+ 
+ADD . /data
+
+WORKDIR .
+
+CMD npm install; npm start
+
+# FROM node:alpine
+# RUN ["apk", "add", "--update", "git "]
+# COPY . /src
+# EXPOSE 80 443
+# WORKDIR /src
+# RUN ["yarn", "prod-build"]
+# RUN mv build/*-server.js build/server.js
+
+# FROM node:alpine
+# COPY --from=0 /src/build /fusemob/build
+# COPY --from=0 /src/node_modules /fusemob/node_modules
+# WORKDIR /fusemob
+# CMD ["node", "build/server.js"]

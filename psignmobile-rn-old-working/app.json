@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "psignmobile",
+    "description": "PSign Mobile",
+    "slug": "psignmobile",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.iriosystems.psign",
+      "publishBundlePath": "ios/psignmobile/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/psignmobile/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "com.iriosystems.psign"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp678bcfe0c468433ba73c9bf6bb214022",
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.1.4-sdk23.0.0-f67c5bc3-4a27-40f6-8686-91e8f868a145.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.1.2-sdk23.0.0-d47f172b-1ed3-4c8f-9e48-239052c678b6.tar.gz"
+    }
+  }
+}

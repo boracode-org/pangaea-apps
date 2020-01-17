@@ -1,0 +1,40 @@
+dependencies: \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelServiceRegistry.m \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelServiceRegistry.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelBridgeRegistry.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelBridgeRecord.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXBranchManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXKernelService.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXErrorRecoveryManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXErrorRecovery.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/ScopedModule/EXScopedBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridge.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTDefines.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXScopedModuleRegistry.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXGoogleAuthManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXGoogle.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXKernelLinkingManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXLinkingManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/ScopedModule/EXScopedEventEmitter.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/node_modules/react-native/React/Modules/RCTEventEmitter.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/ReactAppManager/EXReactAppManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Api/EXCachedResource.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXUtil.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXKernelModuleManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXKernelModule.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXRemoteNotificationManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXNotifications.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXScreenOrientationManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXScreenOrientation.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXSensorManager.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Sensors/EXAccelerometer.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Sensors/EXDeviceMotion.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Sensors/EXGyroscope.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Sensors/EXMagnetometer.h \
+  /Projects/Clients/Pangaea/psignmobile-rn/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/Sensors/EXMagnetometerUncalibrated.h
