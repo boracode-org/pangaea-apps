@@ -48,7 +48,7 @@
     "react-native-web": "^0.1.0",
     "react-scroll": "^1.5.4",
     "sanitize-filename": "^1.6.1",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.5.0",
     "spdy": "^3.4.4",
     "tslib": "^1.6.0",
     "typestyle": "^1.2.0",
